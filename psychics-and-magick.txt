@@ -1,4 +1,3 @@
-
 The following are effects I have taken from my psychic act, and I have 
 created all of them myself.  Realize that I am personally sharing them 
 with you to distribute, copy, or even delete.  If you decide to use these 
@@ -8,27 +7,21 @@ can e-mail me here: VirtualMagick@gmail.com.
 You can visit my github to see some of my other projects here: 
 https://github.com/VirtualMagick/alt.magick
 
-And now without anything further...
+And now without anything further..
 
 Cold Reading Outs
 
-Effect:
-This trick makes it impossible to fail when making a prediction during a 
-cold reading.
+This makes it impossible to fail when making a prediction during a cold
+reading, becuase your prediction is switched out if it doesn’t come true.
 
-Secret:
-The prediction is switched out if it doesn’t come true.
-
-Performance:
 Write your first impressions down on a business card, and they can be as 
 wild as you like.
 
 Fold the business card over twice and set it down on the table. Next, once 
 you have found the reason a person has come to see you, ask yourself if 
-your impressions were correct. If they are you can show them the 
+your impressions were correct. If they were you can show them the 
 prediction. If they are not, reach into your pocket and produce another 
-folded
-business card with a relevant, even if more general prediction.
+folded business card with a relevant, even if more general prediction.
 
 All you have to do now is switch the cards. Do this by palming the second 
 prediction in one hand, and picking the prediction on the table back up. 
@@ -38,15 +31,10 @@ second prediction, and pocket the first one.
 
 Muscle Reading
 
-The Effect:
-The magician can read what the audience writes down on a pad of paper even 
-though he never sees the paper.
+Tou can also read what the audience writes down on a pad of paper even 
+though you never sees the actual writing on the paper.
 
-The Secret:
-Practice.
-
-The Performance:
-Record yourself on video with a pen and a pad of paper. Write on the paper 
+Practice by record yourself on video with a pen and a pad of paper.  Write 
 all the letters of the alphabet, and as you do say them out loud while you 
 are recording.
 
@@ -67,71 +55,6 @@ If someone holds a large sheet of paper up, and they write really big on
 it with a pen, you can clearly see everything they write by looking at the 
 movement of their elbow. This is much easier than trying to read the 
 motion of their wrist.
-
-
-Zodiac Cards
-
-Effect: The magician can divine the star sign of an audience member using 
-a packet of cards.
-
-The Secret: A completely self-working math trick.
-
-The Performance:
-You will need to make a custom packet of 12 cards. Use blank-faced cards 
-or business cards. Draw the symbol for each sun sign on the face
-of these cards. Order the cards from the face of the packet to the top of 
-the packet as follows: Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, 
-Sagittarius, Capricorn, Aquarius, Pisces, and Aries. They can even give 
-the deck a cut as long as you see the top face of the deck after the cut.
-
-Have a person take the deck face up, and secretly move one card from the 
-top to the bottom, without you peeking. They are to do this once
-for each month (starting with January), until they reach their birth 
-month. They can do this while your back is turned. When they are finished, 
-take the packet back. Without looking at the faces of any of the cards, 
-reverse the order of all twelve cards by dealing them to the table one at 
-a time. Then, find the month that began on the face of the packet in the 
-following chart. It will tell you exactly how many cards to cut from the 
-face to the back. When you are done, the sign on the top of the deck, or 
-the sign directly under the top card, will be their zodiac sign!
-
-
-Taurus 5
-Gemini 6
-Cancer 7
-Leo 8
-Virgo 9
-Libra 10
-Scorpio 11
-Sagittarius 0
-Capricorn 1
-Aquarius 2
-Pisces 3
-Aries 4
-
-You might reveal their star sign in a number of different ways. You can 
-tell them you have it on top of the packet and ask what day of the month 
-they were born. Turn the top card over, or if it is not on the top, do a 
-double lift to prove certain he has their sign 100% of the time.
-You can also use this deck as an out for real mind reading. If you write 
-down a guess for the person’s star sign before the reading, then fold it 
-up and place it down on the table. You can then tell them you have wrote 
-an impression of them down before the reading without telling
-them exactly what it is. Then after you get to their actual birth date 
-during the course of the reading you have a 1/12 chance of a truly 
-impossible miracle when you unfold the prediction.
-
-If you didn’t predict their sign, switch out the prediction with another 
-more general prediction that can’t be wrong. You can make a separate set 
-of cards to help you memorize the numbers and signs used in this bonus 
-system. On the face of each card you have a sign of the zodiac. On the 
-back you have the number for the sign. If we were making this for Aries it 
-would look like this:
-
-Face: Aries
-Back: 4 / April
-
-
 
 Cold Reading System
 
@@ -155,17 +78,14 @@ number. For example:
 Corey is 31, was born August 1 1983 and will turn 32 by the end of the 
 year. So we add 32 + 83 + 8 = 123. We then reduce the total down by adding 
 1 + 2 + 3 together, which gives us the number total of 6.
+
 Step (5) Give a brief numerology reading based on this number (readings to 
 follow).
 
-
-
-
 Step (6) Find the current year in the provided chart and see what month 
-this person falls under. 
-
-Add 1 to the chart if their original
-total was a 2 digit number.
+this person falls under. Add 1 to the chart if their original total was a 
+2 digit number
+.
 Step (7) Tell the participant which month their birthday is in, and give 
 them a reading based on their sun sign.
 
@@ -265,8 +185,6 @@ or what seems like direct hits, using these simple steps.
 
 You will need this special Birth Month Chart to make this work:
 
-
-
 	2016	2017	2018	2019	2020	2021	2022	2023
 Jan	9	1	2	3	4	5	6	7
 Feb	1	2	3	4	5	6	7	8
@@ -280,9 +198,6 @@ Sep	8	9	1	2	3	4	5	6
 Oct	9	1	2	3	4	5	6	7
 Nov	1	2	3	4	5	6	7	8
 Dec	2	3	4	5	6	7	8	9	
-
-
-
 
 
 Numerology
@@ -705,10 +620,9 @@ like to see.
 
 3 of Diamonds:
 You could use a little help to manage your bills. There are more than a 
-few 
-opportunities out there for you. It’s possible you could even land a new 
-job if you are ready to change careers. Keep your fingers crossed for a 
-raise or a promotion, and don’t be afraid to ask for help.
+few opportunities out there for you. It’s possible you could even land a
+new job if you are ready to change careers. Keep your fingers crossed for
+a raise or a promotion, and don’t be afraid to ask for help.
 
 1. Bills
 2. Opportunities
@@ -1358,8 +1272,3 @@ purpose why it is in effect and draw that purpose to it.
 Control Chaos
 This is every gamblers fantasy. There is so much in this world that 
 happens without a reason. Wouldn’t you like to control it?
-
-
-
-
-
